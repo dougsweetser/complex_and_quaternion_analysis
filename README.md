@@ -1,6 +1,6 @@
 # Complex - and Quaternion - Analysis
 
-(An edX MOOG)[https://courses.edx.org/courses/course-v1:MISISx+1.1x+3T2020a/course/]
+[An edX MOOG](https://courses.edx.org/courses/course-v1:MISISx+1.1x+3T2020a/course/) + math speculations
 
 Learning complex analysis while trying to extend the work to quaternions.
 
@@ -31,7 +31,7 @@ Areas of Expertise: Condensed matter theory.
 
 ## My odd quaternion slant
 
-I have owned the domain (quaterions.com)[http://quaternions.com] for a long
+I have owned the domain [quaterions.com](http://quaternions.com) for a long
 time. A quaternion is like a complex number, but with three imaginary terms
 instead of one. There is no proof in complex analysis that cannot also be done
 with quaternions of the form (a, b, 0, 0). Such an exercise will strike most
